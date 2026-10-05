@@ -1,9 +1,9 @@
 
-# 🎬 Movies Web
+# Movies Web
 
 Este proyecto es una aplicación web para el consumo de una API de películas. Permite a los usuarios explorar tendencias, buscar películas, ver detalles de cada una y navegar entre categorías de una manera visual y atractiva.
 
-## 🚀 Características
+## Características
 
 - **Explorar tendencias:** Visualiza las películas más populares del momento.
 - **Búsqueda:** Busca películas por título.
@@ -12,7 +12,7 @@ Este proyecto es una aplicación web para el consumo de una API de películas. P
 - **Diseño responsivo:** Adaptado para dispositivos móviles y de escritorio.
 - **Interactividad:** Navegación mejorada con flechas para el desplazamiento.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Frontend:**
   - HTML5
@@ -21,7 +21,7 @@ Este proyecto es una aplicación web para el consumo de una API de películas. P
 - **API:**
   - Consumo de una API REST para obtener datos dinámicos de películas.
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```plaintext
 movies-web/
@@ -37,7 +37,7 @@ movies-web/
 └── README.md         # Documentación del proyecto
 ```
 
-## ⚙️ Configuración
+## Configuración
 
 1. **Clonar el repositorio:**
    ```bash
@@ -59,14 +59,14 @@ movies-web/
 4. **Ejecutar la aplicación:**
    - Abre el archivo `index.html` en tu navegador o utiliza una extensión de servidor local como **Live Server**.
 
-## 📋 Funcionalidades futuras
+## Funcionalidades futuras
 
 - Agregar autenticación de usuarios para listas personalizadas.
 - Funcionalidad para marcar películas como favoritas.
 - Agregar un reproductor de trailers.
 - Mejorar la paginación y carga de contenido infinito.
 
-## 📜 Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
